@@ -24,3 +24,8 @@ This project demonstrates basic memory management in Java using object creation,
 
    ```bash
    javac memory_assignment2.java
+
+2. Run the program:
+
+   ```bash
+   java memory_assignment2
